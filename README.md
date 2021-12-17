@@ -1,4 +1,4 @@
-# Plant App - Flutter UI
+# Fashion Shop - Flutter UI
 
 ## [Watch it on YouTube](https://youtu.be/LN668OAUrK4)
 
